@@ -7,7 +7,7 @@ Source code and dataset for "[Coreferential Reasoning Learning for Language Repr
 
 The code is based on huggaface's [transformers](https://github.com/huggingface/transformers). Thanks to them!
 
-Pre-trained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1JGDxWqvhWCQ58PqD7dAzye3NW5U2pZOp?usp=sharing)/[Tsinghua Cloud](https://cloud.tsinghua.edu.cn/d/a2eed603edd949b0a663).
+Pre-trained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/19SxYoDeKZg4Ho_FIrDYpcifCtpsl5u3K?usp=sharing).
 
 ## Requirement
 Install dependencies and [apex](https://github.com/NVIDIA/apex):
